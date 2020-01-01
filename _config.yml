@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: hello@jacoviello.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: devinjacoviello
 github_username: jacoviellodevin
 theme: minima
