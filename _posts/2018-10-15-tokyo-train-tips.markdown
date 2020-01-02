@@ -31,7 +31,7 @@ The exception to be aware of it that the subway system in Tokyo isn’t 24/7 so 
 
 ### When it all goes wrong
 
-If you suddenly realise you’re passing stations going the wrong direction – don’t panic, get off at the next stop, cross the platform, wait a few seconds and jump on the train that stops.  It’s easy to get turned around when you’re underground and rush from an arriving train.  I think we’ve all done this at least once.  It’s far more embarrassing to admit that I’ve managed to do it in Kyoto and they only have two subway lines!  There’s also no additional cost from your original route as you don’t need to exit through the gate until your destination.
+If you suddenly realize you’re passing stations going the wrong direction – don’t panic, get off at the next stop, cross the platform, wait a few seconds and jump on the train that stops.  It’s easy to get turned around when you’re underground and rush from an arriving train.  I think we’ve all done this at least once.  It’s far more embarrassing to admit that I’ve managed to do it in Kyoto and they only have two subway lines!  There’s also no additional cost from your original route as you don’t need to exit through the gate until your destination.
 
 ![blog-3b.jpg](/uploads/blog-3b.jpg)
 
