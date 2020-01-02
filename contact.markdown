@@ -1,5 +1,5 @@
 ---
-title: Contant
+title: Contact
 date: 2020-01-02 00:58:00 Z
 potato: test test test
 ---
